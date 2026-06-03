@@ -1,10 +1,10 @@
 # [level 0] 뒤에서 5등까지 - 181853 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181853) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181853?language=javascript) 
 
 ### 성능 요약
 
-메모리: 86.3 MB, 시간: 0.50 ms
+메모리: 32.9 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 01일 11:49:05
+2026년 06월 03일 18:51:31
 
 ### 문제 설명
 
