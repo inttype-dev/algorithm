@@ -1,10 +1,10 @@
 # [level 0] 배열 비교하기 - 181856 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181856) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181856?language=javascript) 
 
 ### 성능 요약
 
-메모리: 69.2 MB, 시간: 0.05 ms
+메모리: 32.7 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 02일 09:59:56
+2026년 06월 06일 15:17:33
 
 ### 문제 설명
 
